@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 🌱 Enthusiastic about problem-solving and contributing to open-source projects.
 
 ## Skills
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** Python, C++, JavaScript, Java
 - **Web Development:** HTML, CSS
 - **Tools & Technologies:** Git, GitHub, MySQL
 - **Other Skills:** Algorithms, Data Structures, Software Development Lifecycle
